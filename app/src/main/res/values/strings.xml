@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BackroundPostion</string>
+    <string name="notifixcation_text"> Tracker On </string>
+    <string name="stop_service">Stop Service</string>
+</resources>
